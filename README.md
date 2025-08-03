@@ -1,7 +1,8 @@
 
-# Smart Home Energy Advisor Agent WattsUp Agent
+# Smart Home Energy Advisor Agent WattsUp Agent 🤖
 
 WattsUp_Agent is a friendly AI energy advisor that helps users track and reduce electricity usage. Built on IBM Watsonx, it gives real-time insights and personalized tips through simple, human-like conversation.
+
 ![image Alt](https://github.com/Dharu27/Smart-Home-Energy-Advisor-Agent---WattsUp-Agent/blob/b2cf179eb4c425f6891c51813ae9b83f5d76041e/WattsUp%20Agent.png)
 # Problem Statement
 
@@ -48,7 +49,7 @@ WattsUp Agent is designed to make home energy management simple, smart, and user
 - Smart Home Enthusiasts – Cutting-edge automation and control
 - Utility Customers – Track and optimize usage with ease
 
-# Screenshots
+# 📸Screenshots
 ## Setting Up
 ![image Alt](https://github.com/Dharu27/Smart-Home-Energy-Advisor-Agent---WattsUp-Agent/blob/e36c50e4c5cf41884355fba53cc7a7a83510b9d1/Setting_Up_Agent_Ai.png)
 ## Agent Instruction
